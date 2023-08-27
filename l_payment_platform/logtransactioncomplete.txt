@@ -1,0 +1,1 @@
+{"response_code":501,"response_message":"Payment Validation failed.","data":"Transaction Canceled"}
